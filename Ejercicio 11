@@ -1,0 +1,8 @@
+# Ejercicio once
+print ("Ingresa tu contraseña:")
+contraseña= str(input())
+
+if contraseña == "DNE 2024":
+  print ("La contraseña ingresada es correcta")
+else:
+  print ("La contraseña ingresada es incorrecta")
