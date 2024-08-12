@@ -1,0 +1,7 @@
+# Ejercicio diez
+print ("¿Cuál es tu edad?")
+edad= int(input ())
+if edad < 18:
+  print ("!¿Que haces aqui,si eres menor de edad?¡")
+else:
+  print ("¡Que bueno eres mayor de edad! ¡Bienvenid@ :p!")
