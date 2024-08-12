@@ -1,0 +1,5 @@
+# Ejercicio nueve
+barras = int(input("¿Cuantas barras de pan no son del dia?"))
+print("El precio habitual de una barra de pan es de", barras*3.49, "€")
+print("El descuento es de", barras*3.49*0.6, "€")
+print("El precio final es de", barras*3.49*0.4, "€")
