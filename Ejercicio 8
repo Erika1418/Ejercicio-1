@@ -1,0 +1,6 @@
+# Ejercicio ocho
+engranajes = 112 
+cilindros = 75
+engranajes = int(input("¿Cuantos engranajes?"))
+cilindros = int(input("¿Cuantas cilindros?"))
+print("El peso total del paquete es", engranajes*112+cilindros*75, "g")
