@@ -1,0 +1,3 @@
+# Ejercicio dos
+variable = "!HOLA MUNDO!"
+print(variable)
