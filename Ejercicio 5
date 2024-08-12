@@ -1,0 +1,4 @@
+# Ejercicio cinco
+horas = int(input("¿Cuantas horas trabajas?"))
+coste = int(input("¿Cuanto cobras por hora?"))
+print("Tu paga es de", horas*coste)
